@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Remember to add material-Ui and react-table in your node modules
+
 ## Available Scripts
 
 In the project directory, you can run:
